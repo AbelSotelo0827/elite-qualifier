@@ -1,6 +1,6 @@
-# Title
+# Web Scraper
 
-Simple (or clever and funny?) description
+This program scrapes a Reddit subreddit.
 
 ## Table of Contents
 
@@ -12,14 +12,12 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This application exists to help scrape subreddits for keywords in posts.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+This is a Python application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
-
-### Any optional sections
+Run the code.
